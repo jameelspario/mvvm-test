@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">mvvm test</string>
+    <string name="app_name">Test</string>
     <string name="heading">MVVM Architecture Pattern</string>
     <string name="email_hint">Enter your Email ID</string>
     <string name="password_hint">Enter your password</string>

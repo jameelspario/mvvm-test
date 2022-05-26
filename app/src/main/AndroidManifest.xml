@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MvvmTest">
         <activity
+            android:name=".activities.AudioFocusActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MVVMActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

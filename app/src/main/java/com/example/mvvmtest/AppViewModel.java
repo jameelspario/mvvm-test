@@ -81,4 +81,6 @@ public class AppViewModel  extends BaseObservable {
         return !TextUtils.isEmpty(getUserEmail()) && Patterns.EMAIL_ADDRESS.matcher(getUserEmail()).matches()
                 && getUserPassword().length() > 5;
     }
+
+
 }
